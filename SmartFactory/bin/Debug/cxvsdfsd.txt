@@ -1,0 +1,16 @@
+ProductAct pAc = new ProductAct();
+            pAc.ShowDialog();
+
+ Process pcs = new Process();
+            pcs.ShowDialog();
+
+addinfoPart aip = new addinfoPart();
+            aip.ShowDialog();
+
+StartFactory sfa = new StartFactory();
+            sfa.Show();
+inputPart ipa = new inputPart();
+            ipa.ShowDialog();
+
+ Consult csu = new Consult();
+            csu.ShowDialog();
